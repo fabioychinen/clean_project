@@ -1,6 +1,6 @@
 # clean_project
 
-A new Flutter project.
+A new Flutter project to learn about clean architeture
 
 ## Getting Started
 
